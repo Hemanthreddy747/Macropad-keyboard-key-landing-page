@@ -1,8 +1,7 @@
 
-# macropad  page view link below
+# macropad  page view link :      http://bitly.ws/C9So
 
 
-http://bitly.ws/C9So
 
 
 
