@@ -1,5 +1,5 @@
 
-# macropad  page view link :      http://bitly.ws/C9So
+# macropad view link: http://bitly.ws/C9So
 
 
 
